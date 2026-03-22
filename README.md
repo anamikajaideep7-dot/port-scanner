@@ -16,3 +16,8 @@ This is a simple Python-based port scanner that checks for open ports on a targe
 - Networking basics
 - Port scanning concepts
 - Cybersecurity fundamentals
+
+- ##  Author
+Anamika Jaideep  
+BCA Cybersecurity Student  
+GitHub: https://github.com/anamikajaideep7-dot
